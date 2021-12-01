@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+h2 {
+    color: brown;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p {
+    color: crimson;
+    font-size: large;
+    text-align: center;
+}
+ul {
+    line-height: 40px;
+}
+em {
+    color: #1ebba3;
+}
+strong {
+    color: purple;
+}
+img {
+    border: 2px;
+    border-color: red;
+}
